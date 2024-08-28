@@ -7,7 +7,7 @@
 ## Hi, I am Victor!👋
 
 - I Back-End Developer.
-- I’m currently a SME Team in Jabil.
+- I’m currently a SME in Jabil.
 - Work creating applications and automations to improve the life of the supply chain team.
 - I competitive player in league of legends and counter-strike, but play some mmorpgs game a little.
 
