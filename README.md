@@ -7,8 +7,8 @@
 ## Hi, I am Victor!👋
 
 - I FullStack Developer.
-- I’m currently a Fullstack Developer JR in Jabil
-- Work creating applications and automations to improve the life of all Jabil.
+- I’m currently a Fullstack Developer in Zeev
+- Work creating applications and automations to improve the life of all Zeev Clients.
 - I competitive player in league of legends and counter-strike, but play some mmorpgs game a little.
 
 <div align="left">
